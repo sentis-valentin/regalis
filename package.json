@@ -1,0 +1,21 @@
+{
+  "name": "regalis",
+  "version": "1.0.0",
+  "description": "Regalis Excellentia",
+  "main": "main.js",
+  "icon": "logo.ico",
+  "scripts": {
+    "build": "rimraf Regalis-* && electron-packager . --platform=darwin,linux,win32 --arch=x64 --icon=logo --overwrite",
+    "start": "electron ."
+  },
+  "author": "Valentin Sentis",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^5.0.0",
+    "electron-installer-windows": "*",
+    "electron-packager": "^13.1.1"
+  },
+  "dependencies": {
+    "npm": "^6.9.0"
+  }
+}
