@@ -1,6 +1,6 @@
 # Regalis Excellentia
 
-![capture](https://github.com/grand-Conde/regalis/blob/master/Capture%20d%E2%80%99%C3%A9cran%20-%202019-05-13%20%C3%A0%2018.22.56.png)
+![capture](https://github.com/grand-Conde/regalis/blob/master/images/capture.png)
 
 A basic Electron application needs just these files:
 
