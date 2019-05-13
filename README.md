@@ -1,6 +1,6 @@
 # Regalis Excellentia
 
-![capture](/Capture d’écran - 2019-05-13 à 18.22.56.png)
+[![capture](https://electronjs.org/images/electron-logo.svg)]
 
 A basic Electron application needs just these files:
 
