@@ -1,20 +1,22 @@
 {
   "name": "regalis",
   "version": "1.0.0",
-  "description": "Regalis Excellentia",
+  "description": "aide recherche historique",
   "main": "main.js",
   "scripts": {
-    "build": " --platform=darwin,linux,win32 --arch=x64 --overwrite",
     "start": "electron ."
   },
-  "author": "Valentin Sentis",
+  "repository": "https://github.com/grand-Conde/regalis/",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^5.0.6",
-    "electron-installer-windows": "*",
-    "electron-packager": "^13.1.1"
-  },
-  "dependencies": {
-    "npm": "^6.10.1"
+    "electron": "^6.0.10"
   }
 }
