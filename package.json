@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Regalis Excellentia",
   "main": "main.js",
-  "icon": "logo.ico",
   "scripts": {
     "build": " --platform=darwin,linux,win32 --arch=x64 --overwrite",
     "start": "electron ."
