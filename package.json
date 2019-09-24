@@ -5,7 +5,6 @@
   "main": "main.js",
   "icon": "logo.ico",
   "scripts": {
-    "build": "rimraf Regalis-* && electron-packager . --platform=darwin,linux,win32 --arch=x64 --icon=logo --overwrite",
     "start": "electron ."
   },
   "author": "Valentin Sentis",
